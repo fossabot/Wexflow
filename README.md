@@ -181,6 +181,7 @@ Discover more about the features in [details](https://github.com/aelassas/Wexflo
 # Who's Using Wexflow?
 
 [![Assurant](https://aelassas.github.io/wexflow/images/user_assurant-logo.png)](https://www.assurant.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faelassas%2FWexflow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faelassas%2FWexflow?ref=badge_shield)
 <br>
 <br>
 <br>
@@ -266,6 +267,9 @@ The changelog is available in the [release history](https://github.com/aelassas/
 Wexflow is licensed under the [MIT License](https://github.com/aelassas/Wexflow/blob/master/LICENSE.txt). Wexflow contains other libraries with their individual licenses. More details about these licenses can be found in the [wiki](https://github.com/aelassas/Wexflow/wiki/License).
 
 <!--
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faelassas%2FWexflow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faelassas%2FWexflow?ref=badge_large)
+
 # Developers
 - [Akram El Assas](https://github.com/aelassas) (Project founder and maintainer)
 - [Hans Meyer](https://github.com/HaMster21) 
